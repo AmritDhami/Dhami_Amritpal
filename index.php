@@ -34,7 +34,7 @@ Released   : 20131220
 <div id="header-wrapper">
 	<div id="header" class="container">
 		<div id="logo">
-			<h1><span class="fa fa-bug"></span><a href="#">Untamed</a></h1>
+			
 		</div>
 		<div id="menu">
 			<ul>
@@ -57,7 +57,7 @@ Released   : 20131220
 	<div id="banner-wrapper">
 		<div id="banner" class="container">
 			<h2>SCP FILE</h2>
-			<p>SPecial containment procedure</p>	
+			<p>Special containment procedure</p>	
 			<a href="form.php" class="button special big">Get Started to New SCP file</a>
 		</div>
 	</div>
@@ -67,7 +67,7 @@ Released   : 20131220
 		<div id="content">
 			<div class="title">
 				<h2>Welcome to SCP file</h2>
-				<span class="byline">Mauris vulputate dolor sit amet nibh</span> </div>
+				 </div>
 			<p><img src="images/download.png" alt="" class="image image-full" />
 			</p>
 			<?php
@@ -120,7 +120,7 @@ Released   : 20131220
 	
 </div>
 <div id="copyright" class="container">
-	<p>&copy; Untitled. All rights reserved. | Photos by <a href="http://fotogrph.com/">Fotogrph</a> | Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>.</p>
+	<p>&copy; Design by:- Amritpal Dhami, 30017389. All rights reserved, 2020.</p>
 </div>
 
 <?php
